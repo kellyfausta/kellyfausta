@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kellyfausta
+- 👀 I’m interested in React-Native, Git and GitHub, C#, MSql,JS
+- 🌱 I’m currently learning React-Native
+- 💞️ I’m looking to collaborate on React-Native
